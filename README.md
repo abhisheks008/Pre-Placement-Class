@@ -1,4 +1,4 @@
-# Pre-Placement-Class
+# Pre-Placement-Class 5th November 2020
 #### Date : 5th November, 2020
 Here's the solution of the Pre Placement class assignments in C and Python programming language.
 
